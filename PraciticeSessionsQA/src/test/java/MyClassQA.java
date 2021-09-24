@@ -1,4 +1,4 @@
-#QA NEW
+#QA Master
 public class MyClassQA {
 	
 	public static void main(String [] args) {
